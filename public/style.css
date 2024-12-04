@@ -1,0 +1,8 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    border-radius: 3px;
+    border: 2px black solid;
+}
